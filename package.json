@@ -1,5 +1,5 @@
 {
-  "name": "winston-syslog",
+  "name": "@thzero/winston-syslog",
   "description": "A syslog transport for winston",
   "version": "2.4.4",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
